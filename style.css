@@ -1,0 +1,57 @@
+.main {
+    background-color: #1F2937 ;
+    color: white;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    flex-grow: 5;
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.awesome h1 {
+    font-size: 48px;
+}
+
+.awesome p {
+    width: 300px;
+}
+.awesome, .logo {
+    color: #F9FAF8;
+}
+
+.top h2 {
+    flex-grow: 2;
+    font-size: 18px;
+}
+.cover {
+    display: flex;
+    justify-content: center;
+}
+
+.first-button {
+    color: white;
+    background-color: #3882F6;
+    border: 2px solid #3882F6;
+    border-radius: 10px;
+}
+
+p.information, .quote {
+    font-size: 36px;
+    color: #1F2937;
+}
+
+p.information, .awesome {
+    font-weight: 900;
+}
+
+.quote-box{
+    background-color: #E5E7EB;
+}
+
